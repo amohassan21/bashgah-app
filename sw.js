@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bashgah-v1';
+const CACHE_NAME = 'bashgah-v2';
 const FILES_TO_CACHE = [
   './',
   './index.html',
